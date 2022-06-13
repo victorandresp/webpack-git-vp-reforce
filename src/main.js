@@ -5,6 +5,7 @@ console.log('test4');
 
 const test = 'test';
 const testing_rebase = 'rebase';
+const testing_rebase2 = 'rebase2';
 
 function printf(value = '') {
     console.log(value)
