@@ -15,4 +15,5 @@ console.log('test5');
 printf('tesing printf');
 printf('tesing printf 2');
 printf('Mala practica');
+printf('Mala practica 2');
 
