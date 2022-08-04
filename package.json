@@ -9,7 +9,9 @@
   "private": false,
   "scripts": {
     "dev": "webpack --mode development",
-    "build": "webpack --mode production"
+    "dev-foo": "webpack --mode development --entry ./foo/src/index.js --output-path ./foo/dist/",
+    "build": "webpack --mode production",
+    "build-foo": "webpack --mode production --entry ./foo/src/index.js --output-path ./foo/dist/"
   },
   "devDependencies": {
     "webpack": "^5.74.0",
