@@ -1,0 +1,1 @@
+(()=>{var o=[1,2,3,4,5].map((function(o){return o+1}));console.log("".concat("John"," is ").concat(30," years old")),console.log(o)})();
